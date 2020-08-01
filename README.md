@@ -33,3 +33,7 @@
 <!-- YOUTUBE:END -->
 
 ---
+
+### My GitHub Stats
+
+[![LukeIsHereToDevelop's github stats](https://github-readme-stats.vercel.app/api?username=LukeIsHereToDevelop)](https://github.com/anuraghazra/github-readme-stats)
