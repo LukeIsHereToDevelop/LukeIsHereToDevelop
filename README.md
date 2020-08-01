@@ -25,6 +25,11 @@
 ### My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [COVID-19 Live Counter](https://www.youtube.com/watch?v=MAMVpUN4BDc)
+- [COVID-19 Live Counter](https://www.youtube.com/watch?v=UOxPBrDsbCo)
+- [TeamTrees: Trees Counter](https://www.youtube.com/watch?v=0M_Rb3lJwg8)
+- [Come usare il proprio telefono come secondo schermo per Windows](https://www.youtube.com/watch?v=imHFfqh1KuI)
+- [Will the DVD logo ever hit the corner?](https://www.youtube.com/watch?v=xTo8x8V3PO8)
 <!-- YOUTUBE:END -->
 
 ---
