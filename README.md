@@ -1,4 +1,4 @@
-### Hello!
+### 👋 Hello!
 
 ## I'm Luca, a Little Developer & [YouTuber](https://www.youtube.com/channel/UClLBdgWDV7vyX3tjZz0MUoQ).
 - 🇮🇹 I'm Italian.
