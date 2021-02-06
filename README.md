@@ -3,7 +3,7 @@ Index: [Presentation](https://github.com/LukeIsHereToDevelop#im-luca-a-little-de
 ### 👋 Hello!
 
 ## I'm Luca, a Little Developer & [YouTuber](https://www.youtube.com/channel/UClLBdgWDV7vyX3tjZz0MUoQ).
-- 🇮🇹 I'm Italian.
+- 🏁 I'm Italian.
 - 🧡 I love making [Discord](https://discord.com) Bots in Javascript!
 
 ### Contact Me!
