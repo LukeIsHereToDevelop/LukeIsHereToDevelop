@@ -5,7 +5,7 @@ Index: [Presentation](https://github.com/LukeIsHereToDevelop#im-luca-a-little-de
 ## I'm Luca, a Little Developer & [YouTuber](https://www.youtube.com/channel/UClLBdgWDV7vyX3tjZz0MUoQ).
 - 🏁 I'm Italian.
 - 🧡 I love making [Discord](https://discord.com) Bots & [NodeJS](https://nodejs.org) Programs in Javascript!
-- 💻 I'm working on [ShortEm](https://shortem.ml)
+- 💻 I'm working on [ShortEm](https://shortem.ml).
 
 ### 🎶 Currently listening on Spotify
 
