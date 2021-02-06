@@ -13,10 +13,10 @@ Index: [Presentation](https://github.com/LukeIsHereToDevelop#im-luca-a-little-de
 <br />
 
 ### My Projects
-- [<img align="left" alt="My Website!" width="23px" src="https://cdn.discordapp.com/avatars/427464899883433984/a_947db4b0e6cd92d8e5ef7af5a50f2dbc.gif" />](https://lukedev.tk) LukeDev | My Website! | https://lukedev.tk
+- [<img style="border-radius: 50%;" align="left" alt="My Website!" width="23px" src="https://cdn.discordapp.com/avatars/427464899883433984/a_947db4b0e6cd92d8e5ef7af5a50f2dbc.gif" />](https://lukedev.tk) LukeDev | My Website! | https://lukedev.tk
 - [<img align="left" alt="ShortEm" width="23px" src="https://img.icons8.com/ios-glyphs/100/000000/question-mark.png" />](https://shortem.ml) ShortEm | URL Shortener | https://shortem.ml
 - [<img align="left" alt="Gaiden" width="23px" src="https://gaiden.tk/img/botlogo-circle.png" />](https://gaiden.tk) Gaiden | Discord.js Bot | https://gaiden.tk
-- [<img align="left" alt="Poxie" width="23px" src="https://cdn.discordapp.com/emojis/732632967914192966.png" />](http://www.poxiebot.tk) Poxie | Discord.js Bot | No GitHub Repository
+- [<img style="border-radius: 50%;" align="left" alt="Poxie" width="23px" src="https://cdn.discordapp.com/emojis/732632967914192966.png" />](http://www.poxiebot.tk) Poxie | Discord.js Bot | No GitHub Repository
 - [<img align="left" alt="RPMaster" width="23px" src="https://img.icons8.com/ios-glyphs/100/000000/question-mark.png" />](https://google.com) RPMaster | Discord Rich Presence | Coming Soon!
 - [<img align="left" alt="LinkCord" width="20px" src="https://img.icons8.com/ios/344/external-link.png" />](https://linkcord.tk)LinkCord | Discord Vanity URL Service | https://linkcord.tk
 
