@@ -13,7 +13,8 @@ Index: [Presentation](https://github.com/LukeIsHereToDevelop#im-luca-a-little-de
 
 ### 🧑 Contact Me!
 [<img align="left" alt="YouTube Channel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UClLBdgWDV7vyX3tjZz0MUoQ)
-[<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />](https://dsc.bio/lukebtw)
+[<img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />](https://dsc.bio/lukebtw)
+[<img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](https://mailhide.io/e/0WlXSEfZ)
 
 <br />
 
