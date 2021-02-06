@@ -1,4 +1,4 @@
-Index: [Presentation](https://github.com/LukeIsHereToDevelop#im-luca-a-little-developer--youtuber) | [Contact Me!](https://github.com/LukeIsHereToDevelop#contact-me) | [My Projects](https://github.com/LukeIsHereToDevelop#my-projects) | [Language & Tools I use](https://github.com/LukeIsHereToDevelop#languages--tools-i-use) | [My Latest YouTube Videos](https://github.com/LukeIsHereToDevelop#my-latest-youtube-videos) | [My GitHub Stats](https://github.com/LukeIsHereToDevelop#my-github-stats)
+Index: [Presentation](https://github.com/LukeIsHereToDevelop#im-luca-a-little-developer--youtuber) | [Currently listening on Spotify](https://github.com/LukeIsHereToDevelop#-my-projects) | [Contact Me!](https://github.com/LukeIsHereToDevelop#-contact-me) | [My Projects](https://github.com/LukeIsHereToDevelop#-currently-listening-on-spotify) | [Language & Tools I use](https://github.com/LukeIsHereToDevelop#-languages--tools-i-use) | [My Latest YouTube Videos](https://github.com/LukeIsHereToDevelop#-my-latest-youtube-videos) | [My GitHub Stats](https://github.com/LukeIsHereToDevelop#-my-github-stats)
 
 ### 👋 Hello!
 
@@ -7,7 +7,7 @@ Index: [Presentation](https://github.com/LukeIsHereToDevelop#im-luca-a-little-de
 - 🧡 I love making [Discord](https://discord.com) Bots & [NodeJS](https://nodejs.org) Programs in Javascript!
 - 💻 I'm working on [ShortEm](https://shortem.ml)
 
-### 🎶 Currently playing on Spotify
+### 🎶 Currently listening on Spotify
 
 [<img src="https://spotify-listening-status.lukeisheretodevelop.vercel.app/api/spotify" alt="Spotify Now Playing" width="350" />](https://open.spotify.com)
 
