@@ -19,7 +19,7 @@ Index: [Presentation](https://github.com/LukeIsHereToDevelop#im-luca-a-little-de
 <br />
 
 ### 💻 My Projects
-- [<img style="border-radius: 50%;" align="left" alt="My Website!" width="23px" src="https://lukedev.tk/assets/animated_avatar.gif" />](https://lukedev.tk) LukeDev | My Website! | https://lukedev.tk
+- [<img style="border-radius: 50%;" align="left" alt="My Website!" width="23px" src="https://lukedev.site/assets/animated_avatar.gif" />](https://lukedev.site) LukeDev | My Website! | https://lukedev.site
 - [<img align="left" alt="ShortEm" width="23px" src="https://img.icons8.com/ios-glyphs/100/000000/question-mark.png" />](https://shortem.ml) ShortEm | URL Shortener | https://shortem.ml
 - [<img align="left" alt="Gaiden" width="23px" src="https://gaiden.tk/img/botlogo-circle.png" />](https://gaiden.tk) Gaiden | Discord.js Bot | https://gaiden.tk
 - [<img style="border-radius: 50%;" align="left" alt="Poxie" width="23px" src="https://cdn.discordapp.com/emojis/732632967914192966.png" />](http://www.poxiebot.tk) Poxie | Discord.js Bot | No GitHub Repository
