@@ -39,7 +39,7 @@ Index: [Presentation](https://github.com/LukeIsHereToDevelop#im-luca-a-little-de
 <!-- YOUTUBE:START -->
 - [Come usare il proprio telefono come secondo schermo per Windows](https://www.youtube.com/watch?v=imHFfqh1KuI)
 - [Will the DVD logo ever hit the corner?](https://www.youtube.com/watch?v=SJgH_YyC7Mw)
-- [Come usare il "vecchio" stile di YouTube](https://www.youtube.com/watch?v=Daayotu4FBc)
+- [Come usare il &quot;vecchio&quot; stile di YouTube](https://www.youtube.com/watch?v=Daayotu4FBc)
 - [Come creare un effetto Matrix](https://www.youtube.com/watch?v=5uK8T2GfJQc)
 - [Come guardare Star Wars sul Command Prompt](https://www.youtube.com/watch?v=IEoXjaRuy1c)
 <!-- YOUTUBE:END -->
